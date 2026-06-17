@@ -163,4 +163,10 @@ if, after reading all of this, someone still uses this material and publicly cla
 
 i have nothing to lose, and you need to be a larper to feel better. terrible trade.
 
-extencil@segfault.net
+
+
+> None of the above warnings apply to the original authors of the content that made this content possible. If you belong to any of the groups mentioned here (CCC, Phrack, THC, legendary Team Teso, Inferigang, Eurocompton, Portswigger, Wireshark, etc.), feel free to use it as you see fit and claim authorship if you deem it necessary. It's a fair exchange from my point of view, and you have the right to do so (especially since I don't have the money to hire a lawyer if you decide to sue me).
+> My problem is seeing some retarded marketer who likes to gloat over other people's work (in this case, an AI's) posting this on Behance or LinkedIn with a caption similar to "my work, look how good I am, don't hire real artists and hire me".
+>    
+> *extencil@segfault.net*
+> *june, 2026*  
