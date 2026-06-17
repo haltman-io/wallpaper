@@ -14,11 +14,17 @@ every time I search for a cool wallpaper, google always shows:
 
 so yeah, i was missing cool wallpapers and started generating a pile of them randomly.
 
-## credits / attribution
+## credits / attribution / takedown
 
-these wallpapers are free, AI-generated, and some are based on/reference other images, logos, styles, or art floating around the internet. some sets are unofficial fan-made stuff, not official anything.
+clear version: i am not the creator of any of this. ok, i generated some of these with AI, but the workflow was basically "look at this image, create an alternate wallpaper". that's it. that does not make me the original artist of anything, and i respect the people who created the original stuff.
+
+these wallpapers are free, AI-generated, downloaded, remixed, inspired by, or based on/reference other images, logos, styles, community art, or random internet stuff. some sets are unofficial fan-made stuff, not official anything.
+
+my life is a mess and my files are organized exactly like my head: they are not. i didn't save the original author names because i keep nuking my OS every 6 months, forgetting the backup, and losing every wallpaper/art file i swore i would never lose again. after losing too many wallpapers and artworks that i'll probably never find again and that now only exist in my head (maybe the beginning of a schizophrenic episode, maybe just elite-level bad backup discipline), i decided to publish this pile so other people can at least grab them too.
 
 i don't need my name here. if artwork from someone else appears anywhere in this repo and that person wants credit, just send an email to root@haltman.io with the filename and who should be credited. i'll update this README as fast as i can.
+
+takedown requests are welcome too. same email: root@haltman.io. send the filename and the reason, and i'll remove it.
 
 ## wallpapers
 
@@ -60,6 +66,8 @@ click a preview to open the original file.
 | [<img src="dump/haltman/haltman-wallpaper-010.png" alt="haltman-wallpaper-010.png" width="320">](dump/haltman/haltman-wallpaper-010.png)<br><sub><code>haltman-wallpaper-010.png</code></sub> | [<img src="dump/haltman/haltman-wallpaper-011.png" alt="haltman-wallpaper-011.png" width="320">](dump/haltman/haltman-wallpaper-011.png)<br><sub><code>haltman-wallpaper-011.png</code></sub> |  |
 
 ### inferigang
+
+most of these inferigang wallpapers are originals from the group itself. i downloaded them because someone shared them in the Rootkit Researchers Discord community. i did not create them; i just grabbed them before they got swallowed by the same black hole where my backups go to die.
 
 | | | |
 |---|---|---|
