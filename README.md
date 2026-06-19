@@ -1,65 +1,87 @@
 # wallpaper
 
-A collection of wallpapers... but for hackers.
+[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](LICENSE)
+![Wallpapers](https://img.shields.io/badge/wallpapers-84-0f766e)
+![Categories](https://img.shields.io/badge/categories-8-2563eb)
+![Format](https://img.shields.io/badge/format-PNG-111827)
+![Status](https://img.shields.io/badge/status-unofficial%20%2F%20AI--assisted-b45309)
 
-## table of contents
+A curated archive of hacker-adjacent wallpapers, including AI-generated, AI-assisted, remixed, downloaded, and community-inspired material.
 
-* [why](#why)
-* [credits / attribution / takedown](#credits--attribution--takedown)
-* [wallpapers](#wallpapers)
+## Table of Contents
+
+* [Overview](#overview)
+* [Repository Stats](#repository-stats)
+* [Categories](#categories)
+* [Disclaimer](#disclaimer)
+* [Attribution and Takedown](#attribution-and-takedown)
+* [Why This Exists](#why-this-exists)
+* [Gallery](#gallery)
   * [ccc](#ccc)
   * [cli](#cli)
   * [dedsec-style](#dedsec-style)
+  * [freebsd](#freebsd)
   * [haltman](#haltman)
   * [inferigang](#inferigang)
   * [phrack](#phrack)
   * [thc](#thc)
-* [contribute](#contribute)
-* [license / public domain / common sense](#license--public-domain--common-sense)
+* [Contributing](#contributing)
+* [License and Usage](#license-and-usage)
 
-## why
+## Overview
 
-every time I search for a cool wallpaper, google always shows:
+This repository exists as a public wallpaper archive for security, hacker, terminal, and related technical-community themes. The collection is intentionally simple: images are grouped by category under `dump/`, and this README acts as the browsable index.
 
-* Anonymous mask (some are cool, but my anonymous wallpapers storage is full and i'm tired),
-* a low-quality image (if you run one of these websites that hosts low quality wallpapers, i hate you),
-* an image with a watermark (I DO NOT WANT A "{bullshit_name}STOCK" ON MY SCREEN),
-* some random shit from Pinterest???????????????????????????????
-* some random cyberpunk
+Counts include `.png` wallpaper files under `dump/<category>/` only. Miscellaneous files, archives, executables, and non-wallpaper assets are excluded from the totals.
 
-so yeah, i was missing cool wallpapers and started generating a pile of them randomly.
+## Repository Stats
 
-## credits / attribution / takedown
+| Metric | Value |
+|---|---:|
+| Wallpapers | 84 |
+| Categories | 8 |
+| Primary format | PNG |
+| Gallery root | `dump/` |
+| License | [The Unlicense](LICENSE) |
 
-### creator disclaimer
+## Categories
 
-clear version: i am not the creator of any of this. ok, i generated some of these with AI, but the workflow was basically "look at this image, create an alternate wallpaper". that's it. that does not make me the original artist of anything, and i respect the people who created the original stuff.
+| Category | Wallpapers | Folder | Notes |
+|---|---:|---|---|
+| [ccc](#ccc) | 8 | `dump/ccc/` | Unofficial AI-generated CCC-inspired set. |
+| [cli](#cli) | 13 | `dump/cli/` | Terminal and command-line themed wallpapers. |
+| [dedsec-style](#dedsec-style) | 7 | `dump/dedsec-style/` | AI-generated or AI-remixed DedSec-style material. |
+| [freebsd](#freebsd) | 4 | `dump/freebsd/` | Unofficial AI-generated FreeBSD fan material. |
+| [haltman](#haltman) | 9 | `dump/haltman/` | Haltman wallpaper set. |
+| [inferigang](#inferigang) | 14 | `dump/inferigang/` | Mix of original group wallpapers and unofficial additions. |
+| [phrack](#phrack) | 17 | `dump/phrack/` | Unofficial AI-generated Phrack fan material. |
+| [thc](#thc) | 12 | `dump/thc/` | THC-themed wallpaper set. |
 
-### what this repo is
+## Disclaimer
 
-these wallpapers are free, AI-generated, downloaded, remixed, inspired by, or based on/reference other images, logos, styles, community art, or random internet stuff. some sets are unofficial fan-made stuff, not official anything.
+### AI and unofficial material
 
-my life is a mess and my files are organized exactly like my head: they are not. i didn't save the original author names because i keep nuking my OS every 6 months, forgetting the backup, and losing every wallpaper/art file i swore i would never lose again. after losing too many wallpapers and artworks that i'll probably never find again and that now only exist in my head (maybe the beginning of a schizophrenic episode, maybe just elite-level bad backup discipline), i decided to publish this pile so other people can at least grab them too.
+Unless a section explicitly says otherwise, wallpapers in this repository may be AI-generated, AI-assisted, remixed, adapted, downloaded, upscaled, or inspired by existing images, logos, styles, community art, or public internet material.
 
-### credits
+Anything referencing a real project, community, logo, mascot, magazine, team, company, or organization is unofficial fan material. It is not official material, not endorsed, not approved, and not affiliated with those projects or organizations.
 
-i don't need my name here. if artwork from someone else appears anywhere in this repo and that person wants credit, just send an email to root@haltman.io with the filename and who should be credited. i'll update this README as fast as i can.
+### Authorship
 
-### takedown
+I do not claim original authorship over material that comes from, references, or depends on someone else's artwork, identity, logo, style, community, or visual language. AI generation or AI-assisted editing does not make me the original artist of the underlying subject matter.
 
-takedown requests are welcome too. same email: root@haltman.io. send the filename and the reason, and i'll remove it.
+## Attribution and Takedown
 
-## wallpapers
+If artwork from someone else appears anywhere in this repository and that person wants credit, send an email to root@haltman.io with the filename and the requested attribution.
 
-click a preview to open the original file. jump straight to a folder:
+Takedown requests are welcome at the same address. Send the filename and the reason, and I will remove the file or update the attribution as appropriate.
 
-* [ccc](#ccc)
-* [cli](#cli)
-* [dedsec-style](#dedsec-style)
-* [haltman](#haltman)
-* [inferigang](#inferigang)
-* [phrack](#phrack)
-* [thc](#thc)
+## Why This Exists
+
+Searching for usable wallpapers often leads to low-quality images, watermarks, unrelated image dumps, or generic stock material. This repository is a practical archive of wallpapers I would actually use and want to keep available.
+
+## Gallery
+
+Click a preview to open the original file.
 
 ### ccc
 
@@ -81,13 +103,22 @@ click a preview to open the original file. jump straight to a folder:
 
 ### dedsec-style
 
-**set note:** Phrack-related heads-up also applies to `dedsec-style-001.png` and `dedsec-style-005.png`: these are AI-generated / AI-remixed wallpaper attempts, not official Phrack art, not my original art, and absolutely not something that should be treated as Call for Arts material. if a real artist made the original thing behind the vibe here, credit/takedown email is still root@haltman.io.
+**Set note:** Phrack-related attribution and Call for Arts boundaries also apply to `dedsec-style-001.png` and `dedsec-style-005.png`. These are AI-generated or AI-remixed wallpaper attempts, not official Phrack art, not original artwork by me, and not material that should be treated as a Call for Arts submission. If a real artist made the source material behind any of these images, credit and takedown requests can be sent to root@haltman.io.
 
 | | | |
 |---|---|---|
 | [<img src="dump/dedsec-style/dedsec-style-001.png" alt="dedsec-style-001.png" width="320">](dump/dedsec-style/dedsec-style-001.png)<br><sub><code>dedsec-style-001.png</code></sub> | [<img src="dump/dedsec-style/dedsec-style-002.png" alt="dedsec-style-002.png" width="320">](dump/dedsec-style/dedsec-style-002.png)<br><sub><code>dedsec-style-002.png</code></sub> | [<img src="dump/dedsec-style/dedsec-style-003.png" alt="dedsec-style-003.png" width="320">](dump/dedsec-style/dedsec-style-003.png)<br><sub><code>dedsec-style-003.png</code></sub> |
 | [<img src="dump/dedsec-style/dedsec-style-004.png" alt="dedsec-style-004.png" width="320">](dump/dedsec-style/dedsec-style-004.png)<br><sub><code>dedsec-style-004.png</code></sub> | [<img src="dump/dedsec-style/dedsec-style-005.png" alt="dedsec-style-005.png" width="320">](dump/dedsec-style/dedsec-style-005.png)<br><sub><code>dedsec-style-005.png</code></sub> | [<img src="dump/dedsec-style/dedsec-style-006.png" alt="dedsec-style-006.png" width="320">](dump/dedsec-style/dedsec-style-006.png)<br><sub><code>dedsec-style-006.png</code></sub> |
 | [<img src="dump/dedsec-style/dedsec-style-007.png" alt="dedsec-style-007.png" width="320">](dump/dedsec-style/dedsec-style-007.png)<br><sub><code>dedsec-style-007.png</code></sub> |  |  |
+
+### freebsd
+
+**Set note:** These FreeBSD wallpapers are AI-generated unofficial fan-made material. They are not official FreeBSD Project material, not endorsed by the FreeBSD Project or the FreeBSD Foundation, and should not be presented as official artwork.
+
+| | | |
+|---|---|---|
+| [<img src="dump/freebsd/freebsd-UNOFFICIAL-ai-generated-001.png" alt="freebsd-UNOFFICIAL-ai-generated-001.png" width="320">](dump/freebsd/freebsd-UNOFFICIAL-ai-generated-001.png)<br><sub><code>freebsd-UNOFFICIAL-ai-generated-001.png</code></sub> | [<img src="dump/freebsd/freebsd-UNOFFICIAL-ai-generated-002.png" alt="freebsd-UNOFFICIAL-ai-generated-002.png" width="320">](dump/freebsd/freebsd-UNOFFICIAL-ai-generated-002.png)<br><sub><code>freebsd-UNOFFICIAL-ai-generated-002.png</code></sub> | [<img src="dump/freebsd/freebsd-UNOFFICIAL-ai-generated-003.png" alt="freebsd-UNOFFICIAL-ai-generated-003.png" width="320">](dump/freebsd/freebsd-UNOFFICIAL-ai-generated-003.png)<br><sub><code>freebsd-UNOFFICIAL-ai-generated-003.png</code></sub> |
+| [<img src="dump/freebsd/freebsd-UNOFFICIAL-ai-generated-004.png" alt="freebsd-UNOFFICIAL-ai-generated-004.png" width="320">](dump/freebsd/freebsd-UNOFFICIAL-ai-generated-004.png)<br><sub><code>freebsd-UNOFFICIAL-ai-generated-004.png</code></sub> |  |  |
 
 ### haltman
 
@@ -99,7 +130,7 @@ click a preview to open the original file. jump straight to a folder:
 
 ### inferigang
 
-**set note:** most of these inferigang wallpapers are originals from the group itself. i downloaded them because someone shared them in the Rootkit Researchers Discord community. i did not create them; i just grabbed them before they got swallowed by the same black hole where my backups go to die.
+**Set note:** Most of these Inferigang wallpapers are originals from the group itself. I downloaded them after they were shared in the Rootkit Researchers Discord community. I did not create those originals; this repository only preserves them in the archive.
 
 | | | |
 |---|---|---|
@@ -111,11 +142,11 @@ click a preview to open the original file. jump straight to a folder:
 
 ### phrack
 
-**Phrack / Call for Arts note:** i sent a heads-up email to arts@phrack.org making it clear that every wallpaper in this Phrack section was generated by AI. i also made it clear that i do not want any of these to be considered, in any way, as material for their Call for Arts.
+**Phrack / Call for Arts note:** I sent a heads-up email to arts@phrack.org making it clear that every wallpaper in this Phrack section was generated by AI. I also made it clear that I do not want any of these to be considered, in any way, as material for their Call for Arts.
 
-this note is here because i really do not want someone downloading these, pretending they made them, and stealing space from an actually great artist who worked their ass off making real art for Phrack. i value that work. i am just dumb and do not have the ability to create cool wallpapers myself, so i made these with whatever was available because apparently my brain chose "idiot with image prompts" as today's operating mode.
+This note exists to prevent these files from being submitted or represented as original human-made artwork. Real Call for Arts submissions should come from the artists who created them.
 
-**source note:** `phrack-UNOFFICIAL-ai-generated-wallpaper-016.png` and `phrack-UNOFFICIAL-ai-generated-wallpaper-017.png` used to be `haltman-wallpaper-003.png` and `haltman-wallpaper-004.png`. i found the source image on Phrack's X profile. the original was cropped, so i only asked AI to make it full HD in 16:9 so it could work as a wallpaper. i did not create the original art for those. i just did the lazy wallpaper-hoarder move: "please make this fit my monitor".
+**Source note:** `phrack-UNOFFICIAL-ai-generated-wallpaper-016.png` and `phrack-UNOFFICIAL-ai-generated-wallpaper-017.png` used to be `haltman-wallpaper-003.png` and `haltman-wallpaper-004.png`. I found the source image on Phrack's X profile. The original was cropped, so I used AI only to extend it to full HD in 16:9 so it could work as a wallpaper. I did not create the original art for those images.
 
 | | | |
 |---|---|---|
@@ -135,38 +166,29 @@ this note is here because i really do not want someone downloading these, preten
 | [<img src="dump/thc/thc-wallpaper-007.png" alt="thc-wallpaper-007.png" width="320">](dump/thc/thc-wallpaper-007.png)<br><sub><code>thc-wallpaper-007.png</code></sub> | [<img src="dump/thc/thc-wallpaper-008.png" alt="thc-wallpaper-008.png" width="320">](dump/thc/thc-wallpaper-008.png)<br><sub><code>thc-wallpaper-008.png</code></sub> | [<img src="dump/thc/thc-wallpaper-009.png" alt="thc-wallpaper-009.png" width="320">](dump/thc/thc-wallpaper-009.png)<br><sub><code>thc-wallpaper-009.png</code></sub> |
 | [<img src="dump/thc/thc-wallpaper-010.png" alt="thc-wallpaper-010.png" width="320">](dump/thc/thc-wallpaper-010.png)<br><sub><code>thc-wallpaper-010.png</code></sub> | [<img src="dump/thc/thc-wallpaper-011.png" alt="thc-wallpaper-011.png" width="320">](dump/thc/thc-wallpaper-011.png)<br><sub><code>thc-wallpaper-011.png</code></sub> | [<img src="dump/thc/thc-wallpaper-012.png" alt="thc-wallpaper-012.png" width="320">](dump/thc/thc-wallpaper-012.png)<br><sub><code>thc-wallpaper-012.png</code></sub> |
 
-## contribute
+## Contributing
 
-add your fav ones via PR.
+Add wallpapers through a pull request.
 
-## license / public domain / common sense
+When adding or removing wallpapers:
 
-this repository uses [The Unlicense](https://unlicense.org/). as far as this repo is concerned, the material here is released into the public domain so people, communities, companies, orgs, weird little hacker groups, and whoever else can use it freely and without fear.
+* Put wallpaper images under `dump/<category>/`.
+* Count only `.png` wallpaper files in the badges, stats table, and category table.
+* Update the category entry, gallery section, and table of contents when adding a new category.
+* Add a short set note when a category is unofficial, AI-generated, AI-assisted, remixed, or based on third-party material.
+* Keep filenames descriptive and scoped to the category.
 
-my only request is common sense.
+## License and Usage
 
-### do not fake authorship
+This repository uses [The Unlicense](https://unlicense.org/). As far as this repository controls the material, it is released into the public domain for free use, remixing, redistribution, and personal or community use.
 
-everything here was generated by AI, downloaded, remixed, upscaled, adapted, or rescued from the chaos pile. i think it is a character failure to claim authorship over something an LLM generated. like, are you really that desperate to feed your ego on top of real artists by pretending you are better than them when your "work" was generated by AI? stay away from me.
+### Do not claim false authorship
 
-use the files. remix them. fork them. put them on your desktop. print them on a cursed laptop sticker if your heart is broken enough. just do not pretend you personally created art that you did not create.
+Use the files, remix them, fork the repository, print them, or put them on your desktop. Do not publicly claim that you personally created artwork that you did not create.
 
-### why this repo exists
+### Respect original creators
 
-i only created this dedicated repo because i am sick of searching for a cool wallpaper and getting Shutterstock slop, PINTEREST sludge, iStock landfill, and watermark garbage thrown at my screen. man, what a specific flavor of hatred.
+The license and usage notes do not limit the original authors, projects, communities, or organizations whose work, logos, styles, or identities made some of this material possible. If you are an original rights holder or representative and want credit, changes, or removal, contact root@haltman.io.
 
-ANY RANDOM THING I SEARCH FOR AS A WALLPAPER somehow summons these works of the devil onto my screen because some insecure watermark clown needs to stamp a logo over a bad, low-quality, broken image to feel important. i vented. i am light now.
-
-### if you still want to larper-credit yourself
-
-if, after reading all of this, someone still uses this material and publicly claims authorship, pray i do not find it. if i do, i will call it out publicly with the receipts, because pretending AI wallpaper slop makes you a real artist is pathetic.
-
-i have nothing to lose, and you need to be a larper to feel better. terrible trade.
-
-
-
-> None of the above warnings apply to the original authors of the content that made this content possible. If you belong to any of the groups mentioned here (CCC, Phrack, THC, legendary Team Teso, Inferigang, Eurocompton, Portswigger, Wireshark, etc.), feel free to use it as you see fit and claim authorship if you deem it necessary. It's a fair exchange from my point of view, and you have the right to do so (especially since I don't have the money to hire a lawyer if you decide to sue me).
-> My problem is seeing some retarded marketer who likes to gloat over other people's work (in this case, an AI's) posting this on Behance or LinkedIn with a caption similar to "my work, look how good I am, don't hire real artists and hire me".
->    
 > *extencil@segfault.net*
-> *june, 2026*  
+> *June, 2026*
