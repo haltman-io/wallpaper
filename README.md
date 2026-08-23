@@ -1,7 +1,7 @@
 # wallpaper
 
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](LICENSE)
-![Wallpapers](https://img.shields.io/badge/wallpapers-84-0f766e)
+![Wallpapers](https://img.shields.io/badge/wallpapers-87-0f766e)
 ![Categories](https://img.shields.io/badge/categories-8-2563eb)
 ![Format](https://img.shields.io/badge/format-PNG-111827)
 ![Status](https://img.shields.io/badge/status-unofficial%20%2F%20AI--assisted-b45309)
@@ -38,7 +38,7 @@ Counts include `.png` wallpaper files under `dump/<category>/` only. Miscellaneo
 
 | Metric | Value |
 |---|---:|
-| Wallpapers | 84 |
+| Wallpapers | 87 |
 | Categories | 8 |
 | Primary format | PNG |
 | Gallery root | `dump/` |
@@ -51,7 +51,7 @@ Counts include `.png` wallpaper files under `dump/<category>/` only. Miscellaneo
 | [ccc](#ccc) | 8 | `dump/ccc/` | Unofficial AI-generated CCC-inspired set. |
 | [cli](#cli) | 13 | `dump/cli/` | Terminal and command-line themed wallpapers. |
 | [dedsec-style](#dedsec-style) | 7 | `dump/dedsec-style/` | AI-generated or AI-remixed DedSec-style material. |
-| [freebsd](#freebsd) | 4 | `dump/freebsd/` | Unofficial AI-generated FreeBSD fan material. |
+| [freebsd](#freebsd) | 7 | `dump/freebsd/` | Unofficial AI-generated FreeBSD fan material. |
 | [haltman](#haltman) | 9 | `dump/haltman/` | Haltman wallpaper set. |
 | [inferigang](#inferigang) | 14 | `dump/inferigang/` | Mix of original group wallpapers and unofficial additions. |
 | [phrack](#phrack) | 17 | `dump/phrack/` | Unofficial AI-generated Phrack fan material. |
@@ -118,7 +118,8 @@ Click a preview to open the original file.
 | | | |
 |---|---|---|
 | [<img src="dump/freebsd/freebsd-UNOFFICIAL-ai-generated-001.png" alt="freebsd-UNOFFICIAL-ai-generated-001.png" width="320">](dump/freebsd/freebsd-UNOFFICIAL-ai-generated-001.png)<br><sub><code>freebsd-UNOFFICIAL-ai-generated-001.png</code></sub> | [<img src="dump/freebsd/freebsd-UNOFFICIAL-ai-generated-002.png" alt="freebsd-UNOFFICIAL-ai-generated-002.png" width="320">](dump/freebsd/freebsd-UNOFFICIAL-ai-generated-002.png)<br><sub><code>freebsd-UNOFFICIAL-ai-generated-002.png</code></sub> | [<img src="dump/freebsd/freebsd-UNOFFICIAL-ai-generated-003.png" alt="freebsd-UNOFFICIAL-ai-generated-003.png" width="320">](dump/freebsd/freebsd-UNOFFICIAL-ai-generated-003.png)<br><sub><code>freebsd-UNOFFICIAL-ai-generated-003.png</code></sub> |
-| [<img src="dump/freebsd/freebsd-UNOFFICIAL-ai-generated-004.png" alt="freebsd-UNOFFICIAL-ai-generated-004.png" width="320">](dump/freebsd/freebsd-UNOFFICIAL-ai-generated-004.png)<br><sub><code>freebsd-UNOFFICIAL-ai-generated-004.png</code></sub> |  |  |
+| [<img src="dump/freebsd/freebsd-UNOFFICIAL-ai-generated-004.png" alt="freebsd-UNOFFICIAL-ai-generated-004.png" width="320">](dump/freebsd/freebsd-UNOFFICIAL-ai-generated-004.png)<br><sub><code>freebsd-UNOFFICIAL-ai-generated-004.png</code></sub> | [<img src="dump/freebsd/freebsd-mobile-unofficial-ai-generated-001.png" alt="freebsd-mobile-unofficial-ai-generated-001.png" width="320">](dump/freebsd/freebsd-mobile-unofficial-ai-generated-001.png)<br><sub><code>freebsd-mobile-unofficial-ai-generated-001.png</code></sub> | [<img src="dump/freebsd/freebsd-mobile-unofficial-ai-generated-002.png" alt="freebsd-mobile-unofficial-ai-generated-002.png" width="320">](dump/freebsd/freebsd-mobile-unofficial-ai-generated-002.png)<br><sub><code>freebsd-mobile-unofficial-ai-generated-002.png</code></sub> |
+| [<img src="dump/freebsd/freebsd-mobile-unofficial-ai-generated-003.png" alt="freebsd-mobile-unofficial-ai-generated-003.png" width="320">](dump/freebsd/freebsd-mobile-unofficial-ai-generated-003.png)<br><sub><code>freebsd-mobile-unofficial-ai-generated-003.png</code></sub> |  |  |
 
 ### haltman
 
