@@ -113,7 +113,7 @@ Click a preview to open the original file.
 
 ### freebsd
 
-**Set note:** These FreeBSD wallpapers are AI-generated unofficial fan-made material. They are not official FreeBSD Project material, not endorsed by the FreeBSD Project or the FreeBSD Foundation, and should not be presented as official artwork.
+**Set note:** These FreeBSD wallpapers are AI-generated unofficial fan-made material. They are not official FreeBSD Project material, not endorsed by the FreeBSD Project or the FreeBSD Foundation, and should not be presented as official artwork. Wallpapers referencing the BSD Daemon are used with permission ([BSD Daemon used with permission](http://www.mckusick.com/copyright.html)).
 
 | | | |
 |---|---|---|
